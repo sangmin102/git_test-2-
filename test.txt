@@ -12,11 +12,33 @@ function b(  ){
 
 }
 
+<<<<<<< HEAD
 
 
 function d(  ){
 
+=======
+function c(  ){
+
+
+>>>>>>> team2
 
 
 }
 
+<<<<<<< HEAD
+=======
+
+function e(  ){
+
+
+
+}
+>>>>>>> team2
+
+function f(  ){
+
+
+
+
+}
